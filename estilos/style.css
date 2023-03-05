@@ -31,7 +31,7 @@ section#telefone{
     width: 311px;
     background-image: url('../imagens/frame-iphone.png');
    
-}5
+}
 iframe#tela{
     position: relative;
     top: 80px;
@@ -44,7 +44,7 @@ section#redes img{
     width: 50px;
     margin: 10px;
     border-radius: 50%;
-    box-shadow: 2px 2px rgba(0, 0, 0, 0.473);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.473);
     background-position: right;
 }
 section#redes img:hover{
